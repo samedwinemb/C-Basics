@@ -13,9 +13,10 @@ int main()
         break;
     case 2:
         cout<<"The double of the Number is  "<<number1*2<<"\n";
+        break;
     case 3:
         cout<<"Hello World\n";
-
+        break;
      case 4:
         cout<<"Welcome to C++\n";
         break;
